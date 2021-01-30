@@ -1,0 +1,140 @@
+/*
+
+	Internet Tools Project
+				Version 1.0
+				index.html
+				Authors:   Rachelle Barrette
+						   Thomas Malley
+			
+				Date: 		2017-01-13
+
+*/
+
+body {
+	background-color:#404040;
+	background-size:     cover;                      /* <------ */
+    background-repeat:   no-repeat;
+    background-position: center center;              /* optional, center the image */
+	background-attachment: fixed;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 15px;
+	color:white;
+	width:90%;
+	margin-left: 3%;
+	margin-right: 3%;
+}
+a {
+	color:white;
+	text-decoration: none;
+}
+a:visited {
+	color:white;
+	text-decoration: none;
+}
+#profiletable {
+	margin-left: 500px;
+}
+
+#profileheading {
+	padding-left: 250px;
+}
+#sample{
+	vertical-align: baseline;
+    display: inline-block;
+    font-size:20px;
+}
+#sampletable {
+	color: white;
+}
+#tutorialstable{
+	float:top;
+	vertical-align: baseline;
+    display: inline-block;
+    font-size:20px;
+}
+#meet{
+	background-color:#68B04D;
+	vertical-align: baseline;
+    display: inline-block;
+    font-size:20px;
+}
+#ethekTables {
+	color: white;
+}
+#catchphrase{
+	font-size:35px;
+	color: white;
+	vertical-align: baseline;
+    display: inline-block;
+}
+#footertable {
+	font-size: 15px;
+	vertical-align: baseline;
+    display: inline-block;
+}
+.fcontainer{
+	font-size: 15px;
+	vertical-align: baseline;
+    display: inline-block;
+}
+#Home{
+ /* border-left: thick solid #000000; */
+ padding-top: 5%;
+  float:top;
+  vertical-align: top;
+  font-size: 30px;
+  
+}
+#picture {
+	padding-top: 4%;
+}
+#About {
+ /* border-left: thick solid #000000;*/
+ /* padding-left:10px;*/
+  float:center;
+  vertical-align: top;
+  
+}
+
+#SocialMedia {
+/*  border-left: thick solid #000000;*/
+  float:right;
+  vertical-align: top;
+  
+}
+
+/* adding some styling for the header
+	modified by Rachelle, 2017/01/24 */
+
+#cellLogoHeader {
+	color:red;
+}
+#logoHeader {
+}
+#cellMenuHeader {
+	color:red;
+}
+#menuHeader {
+	font-size: 20px;
+}
+#footerTable {
+}
+#headerTable {
+}
+#teamTable {
+}
+#tableTwo {
+}
+#meetethek {
+	font-size:80px;
+	color: white;
+}
+#ourtable {
+	font-size:50px;
+	color: white;
+}
+#infotable {
+	font-size:40px;
+	color: white;
+}

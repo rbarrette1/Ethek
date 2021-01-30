@@ -1,0 +1,94 @@
+<?php
+
+	session_start();
+	
+	 $platform = $_SESSION['platform'];
+	 $previous = $_SESSION['previous'];
+	 $prefrence = $_SESSION['prefrence'];
+	 $use = $_SESSION['use'];
+	 $age = $_SESSION['age'];
+	 $where = $_SESSION['where'] ;
+	 $battery = $_SESSION['battery'];
+	 $features = $_SESSION['features'];
+	 $storage = $_SESSION['storage'];
+	 $amount = $_SESSION['amount'];
+	 $budgVar = $_SESSION['budgVar'];
+	 $extraInterests = $_SESSION['extraInterests'];
+
+	 
+	 
+
+
+?>
+
+
+
+<!DOCTYPE html>
+<html>
+
+	<head>
+ 
+		<!-- 
+				Internet Tools Project
+				Version 1.0
+				login.html
+				Authors:   Rachelle Barrette
+						   Thomas Malley
+			
+				Date: 		2017-01-24	
+			
+						                                  -->
+						
+						
+			<meta charset="UTF-8">
+			
+			<link rel="stylesheet" type="text/css" href="css/main.css">
+			<link rel="stylesheet" type="text/css" href="css/login.css">
+			<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+			
+			<title>Log In</title>
+
+	</head>
+	<body>
+		<?php require_once '../templates/header.php';?>
+			
+			
+			
+			
+			<?php
+			
+				print_r($platform);
+				echo "<br />";
+				print_r($previous);
+				echo "<br />";
+				print_r($prefrence);
+				echo "<br />";
+				print_r($use);
+				echo "<br />";
+				print_r($age);
+				echo "<br />";
+				print_r($where);
+				echo "<br />";
+				print_r($battery);
+				echo "<br />";
+				print_r($features);
+				echo "<br />";
+				print_r($storage);
+				echo "<br />";
+				print_r($amount);
+				echo "<br />";
+				print_r($budgVar);
+				echo "<br />";
+				print($extraInterests);
+			
+			?>
+			
+			
+			
+	</body>
+		<footer>	
+			<?php require_once '../templates/footer.php'; ?>
+		</footer>
+	</body>
+
+</html>

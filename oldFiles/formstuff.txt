@@ -1,0 +1,73 @@
+
+
+Platform
+ Apple/Pc/Linux			Check boxes
+ 
+ previous computers
+ 
+ 
+ Device prefrence
+ Mobile/laptop/tablet/all-in-one/desktop/not sure
+ 
+ What do you use a computer for?
+ Gaming/Photography/Casual/Music/Other../not sure
+ 
+ Age group
+ 19-24/25-44/44-64/64 and over/prefer not to awnser
+ 
+ 
+ 
+ will the computer be stationary? or on the go?
+ 
+ where will it be used the most? school, work, on the go, other?
+ 
+ Is battery life important?y/n
+ 1-3hrs/3-5hrs/ 5hrs and up
+ 
+ important features
+ touch screen/ bluetooth/ hdmi output/ disk drive/ display quality
+ 
+ Storage
+ pictures/documents/music  amount(lots or little)
+ 
+ Budget
+ 0-300/300-600/600-800/800-1000/+1000
+ 
+ Usage
+ Family/ personal/ work/public
+ 
+ 
+ Questions(chat):
+Age group? student? retired?
+Do you have any disabilities?
+What do you do with your computer?
+Have you owned a computer before? --> if yes, apple, windows...
+Why are you looking at a new computer?
+What are you looking for in your new computer?
+Is there anything that you wanted to do that your old comptuer could not do?
+Where will you be using your computer?
+For how long will you be using your computer?
+Will it be stationary or will you bring it with you everywhere?
+Where will you be using your computer? -> at home, school, on the go, at work, planes, etc...
+For how long will you be using your computer before charging it again? -- battery life
+Is there any other features that are important to you? touchscreen, display quality, bluetooth, 2 in 1/surface, hdmi output, dvd drive, bluray player
+What will you be storing on your computer? (pictures, music, etc...)
+Whats your budget?
+Are you looking for a mac or windows computer? or indifferent?
+Who will be using this computer?
+
+Questions(text-based choice):
+Age group? student? retired?
+Do you have any disabilities?6
+What do you do with your computer? (checkboxes) - gaming, autocad, photo shop, web browsing, social media, netflix(video streaming). -> if gaming, what games? (checkboxes) - rpg, adventures, web games, etc...
+Have you owned a computer before? --> if yes, apple, windows...
+Where will you be using your computer? -> at home, school, on the go, at work, planes, etc...
+For how long will you be using your computer before charging it again? -- battery life
+Is there any other features that are important to you? touchscreen, display quality, bluetooth, 2 in 1/surface, hdmi output, dvd drive, bluray player
+What will you be storing on your computer? (pictures, music, etc...)
+Whats your budget?
+Are you looking for a mac or windows computer? or indifferent?
+What do others do with your computer?
+Who will be using this computer?
+
+** explain life expectancy upon choice of computer

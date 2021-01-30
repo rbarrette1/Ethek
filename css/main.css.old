@@ -1,0 +1,135 @@
+/*
+
+	Internet Tools Project
+				Version 1.0
+				index.html
+				Authors:   Rachelle Barrette
+						   Thomas Malley
+			
+				Date: 		2017-01-13
+
+*/
+
+body {
+	background-color:#404040;
+	background-size:     cover;                      /* <------ */
+    background-repeat:   no-repeat;
+    background-position: center center;              /* optional, center the image */
+	background-attachment: fixed;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 15px;
+	color:white;
+}
+a {
+	color:#68B04D;
+}
+a:visited {
+	color:#3D9BE9;
+}
+
+#sampletable{
+	width:100%;
+	background-color:#3D9BE9;
+	padding:0;
+	vertical-align: baseline;
+	color: white;
+}
+#meet{
+	width:100%;
+	background-color:#68B04D;
+	fill: 100%;
+	vertical-align: baseline;
+	padding:0;
+    display: inline-block;
+    font-size:20px;
+}
+#catchphrase{
+	font-size:35px;
+	color: white;
+	vertical-align: baseline;
+	padding:0;
+    display: inline-block;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+#Home{
+ /* border-left: thick solid #000000; */
+  padding-left:10px;
+  float:left;
+  
+}
+#About {
+ /* border-left: thick solid #000000;*/
+  padding-left:10px;
+  float:center;
+  
+}
+
+#SocialMedia {
+/*  border-left: thick solid #000000;*/
+  padding-left:10px;
+  float:right;
+  
+}
+
+.fcontainer{
+	display:flex;
+	justify-content:space-between;
+	border-spacing: 100px;
+}
+/* adding some styling for the header
+	modified by Rachelle, 2017/01/24 */
+
+#cellLogoHeader {
+	color:red;
+	width:80%;
+	border:15px;
+}
+#logoHeader {
+	margin: 5%;
+}
+#cellMenuHeader {
+	color:red;
+	width:80%;
+	border:15px;
+}
+#menuHeader {
+	font-size: 20px;
+}
+#footerTable {
+	width:58%;
+	border:15px;
+	margin-left: 22%;
+}
+#headerTable {
+	width:80%;
+	border:15px;
+	margin-right:20%;
+}
+#teamTable {
+	margin-right: 10%;
+	margin-left: 10%;
+}
+#tableTwo {
+	margin-right: 10%;
+	margin-left: 10%;
+}
+#meetethek {
+	font-size:80px;
+	color: white;
+}
+#ourtable {
+	font-size:50px;
+	color: white;
+}
+#infotable {
+	font-size:40px;
+	color: white;
+}
+#ethekTables {
+	width:70%;
+	border:15px;
+	margin-left: 15%;
+	color: white;
+}
